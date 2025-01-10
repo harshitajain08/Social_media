@@ -1,0 +1,7 @@
+**/AppData
+**/Local
+**/ElevatedDiagnostics
+.git
+__pycache__
+*.pyc
+*.pyo
